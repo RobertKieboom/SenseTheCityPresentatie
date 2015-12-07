@@ -1,6 +1,6 @@
 # SenseTheCityPresentatie
 
-Dit is de presentatie zoals gegeven tijdens de workshop DustDuino+ opp de Geonovum dag "Sense The City".
+Dit is de presentatie zoals gegeven tijdens de workshop DustDuino+ op de Geonovum dag "Sense The City".
 De aangepaste gegevens voor de kleuren van de draden zijn ook verwerkt.
 
 De gebruikte onderdelen nog even op een rij:
